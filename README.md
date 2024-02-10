@@ -1,7 +1,6 @@
 # Discord Bot MTX-SERV
 
 ![Project](https://img.shields.io/badge/Personnal-Project-2F77DF?labelColor=679EEE&style=for-the-badge)
-
 ![Node](https://img.shields.io/badge/Node%20Js-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
 
 Discord bot using the Hacker News API to retrieve news and post them to a channel.
